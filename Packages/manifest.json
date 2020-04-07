@@ -2,6 +2,7 @@
   "dependencies": {
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.connect.share": "1.2.0-preview.1",
+    "com.unity.dots.editor": "0.4.0-preview",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.1.4",
     "com.unity.test-framework": "1.1.13",
